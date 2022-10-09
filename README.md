@@ -2,7 +2,7 @@
 - 👀 I’m interested in aerial robotics and control systems
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on robotics related projects
-- 📫 Reach me saminhasan@iut-dhaka.edu
+- 📫 Contact - saminhasan@iut-dhaka.edu
 
 <!---
 saminhasan/saminhasan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
