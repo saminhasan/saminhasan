@@ -15,9 +15,9 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <p align="center">  
-  <img width="512px" src="https://github-readme-stats.vercel.app/api?username=saminhasan&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&custom_title=Statistics"/>
+  <img width="512px" src="https://github-readme-stats.vercel.app/api?username=saminhasan&count_private=true&show_icons=true&theme=github_dark&hide_border=true&custom_title=Statistics"/>
 </p>
 
 <p align="center">  
-  <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saminhasan&langs_count=5&theme=tokyonight&hide_border=true&hide=HTML&custom_title=Languages"/>
+  <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saminhasan&langs_count=5&theme=github_dark&hide_border=true&hide=HTML&custom_title=Languages"/>
 </p>
