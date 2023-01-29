@@ -9,12 +9,11 @@ saminhasan/saminhasan is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 
 --->
+
+
 <p align="center">  
-
-[![saminhasan's GitHub stats](https://github-readme-stats.vercel.app/api?username=saminhasan&theme=tokyonight&hide_border=tru)](https://github.com/saminhasan/github-readme-stats)
+  <img width="512px" src="http://github-readme-streak-stats.herokuapp.com?user=minhaj6&theme=tokyonight&hide_border=tru&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
-
-
 <p align="center">  
   <img width="512px" src="https://github-readme-stats.vercel.app/api?username=saminhasan&count_private=true&show_icons=true&theme=github_dark&hide_border=true&custom_title=Statistics"/>
 </p>
