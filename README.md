@@ -12,14 +12,14 @@ You can click the Preview link to take a look at your changes.
 
 
 <p align="center">  
-  <img width="512px" src="http://github-readme-streak-stats.herokuapp.com?user=minhaj6&theme=github_dark&hide_border=tru&date_format=M%20j%5B%2C%20Y%5D" />
+  <img width="512px" src="http://github-readme-streak-stats.herokuapp.com?user=saminhasan&theme=midnight-purple&hide_border=true" />
 </p>
 <p align="center">  
-  <img width="512px" src="https://github-readme-stats.vercel.app/api?username=saminhasan&count_private=true&show_icons=true&theme=github_dark&hide_border=true&custom_title=Statistics"/>
+  <img width="512px" src="https://github-readme-stats.vercel.app/api?username=saminhasan&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true&custom_title=Statistics"/>
 </p>
 
 <p align="center">  
-  <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saminhasan&langs_count=5&theme=github_dark&hide_border=true&hide=HTML&custom_title=Languages"/>
+  <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saminhasan&langs_count=5&theme=midnight-purple&hide_border=true&hide=HTML&custom_title=Languages"/>
 </p>
 
 
