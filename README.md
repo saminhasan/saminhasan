@@ -9,7 +9,10 @@ saminhasan/saminhasan is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 
 --->
-[![saminhasan's GitHub stats](https://github-readme-stats.vercel.app/api?username=saminhasan)](https://github.com/saminhasan/github-readme-stats)
+<p align="center">  
+
+[![saminhasan's GitHub stats](https://github-readme-stats.vercel.app/api?username=saminhasan&theme=tokyonight&hide_border=tru)](https://github.com/saminhasan/github-readme-stats)
+</p>
 
 
 <p align="center">  
@@ -20,6 +23,4 @@ You can click the Preview link to take a look at your changes.
   <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saminhasan&langs_count=5&theme=github_dark&hide_border=true&hide=HTML&custom_title=Languages"/>
 </p>
 
-<p align="center">  
-  <img width="512px" src="http://github-readme-streak-stats.herokuapp.com?user=saminhasan&theme=github_dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-</p>
+
