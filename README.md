@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 [![saminhasan's GitHub stats](https://github-readme-stats.vercel.app/api?username=saminhasan)](https://github.com/saminhasan/github-readme-stats)
 --->
 <p align="center">  
-  <img width="512px" src="http://github-readme-streak-stats.herokuapp.com?user=saminhasan&date_format=M%20j%5B%2C%20Y%5D&theme=github_dark" />
+  <img width="512px" src="http://github-readme-streak-stats.herokuapp.com?user=saminhasan&date_format=M%20j%5B%2C%20Y%5D&theme=transparent" />
 </p>
 
 <p align="center">  
