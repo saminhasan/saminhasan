@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <p align="center">  
-  <img width="512px" src="http://github-readme-streak-stats.herokuapp.com?user=minhaj6&theme=tokyonight&hide_border=tru&date_format=M%20j%5B%2C%20Y%5D" />
+  <img width="512px" src="http://github-readme-streak-stats.herokuapp.com?user=minhaj6&theme=github_dark&hide_border=tru&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 <p align="center">  
   <img width="512px" src="https://github-readme-stats.vercel.app/api?username=saminhasan&count_private=true&show_icons=true&theme=github_dark&hide_border=true&custom_title=Statistics"/>
